@@ -13,7 +13,7 @@ Website for the javascript101 meetup Bristol
 2.  `cd javascript101`
 2.  `npm install`
 3.  `npm start`
-4.  Open your browser and go to http://0.0.0.0:8888
+4.  Open your browser and go to http://localhost:8888
 
 ## Style Guide
 We use a `.editorconfig` file to help everyone maintain adherence to our styleguide. This file tells your code editor to use certain default settings for this project. Please download the relevant plugin for your editor of choice here: [editorconfig.org](http://editorconfig.org/#download)
